@@ -1,6 +1,6 @@
 organization := "com.agilogy"
 
-name := "com.agilogy.update.update-changes"
+name := "update-changes"
 
 scalaVersion := "2.11.8"
 
