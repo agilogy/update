@@ -9,7 +9,7 @@ Document it
 ```
 resolvers += "Agilogy GitLab" at "https://gitlab.com/api/v4/groups/583742/-/packages/maven"
 
-libraryDependencies += "com.agilogy" %% "update-changes" % "1.1"
+libraryDependencies += "com.agilogy" %% "update-changes" % "1.2"
 ```
 
 ## Publishing
