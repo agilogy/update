@@ -87,6 +87,7 @@ project/boot/
 
 # sbt specific
 .lib/
+.bsp/
 dist/*
 project/plugins/project/
 
