@@ -1,5 +1,5 @@
 logLevel := Level.Warn
 
-addSbtPlugin("me.lessis" % "bintray-sbt" % "0.3.0")
+addSbtPlugin("com.typesafe.sbt" % "sbt-git" % "1.0.0")
 
-addSbtPlugin("com.typesafe.sbt" % "sbt-git" % "0.8.5")
+addSbtPlugin("com.gilcloud" % "sbt-gitlab" % "0.0.6")
